@@ -1,0 +1,9 @@
+{
+    "server.host": "localhost",
+    "server.tcp.port": 12345,
+
+    "connection.timeout.seconds": 10,
+    "response.timeout.seconds": 10,
+
+    "io.buffer.size": 4096
+}

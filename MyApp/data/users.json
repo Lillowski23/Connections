@@ -1,0 +1,44 @@
+[
+  {
+    "playerId": 1,
+    "username": "pippo",
+    "passwordHash": "n+3z5E1bAEYnvfIEeH5ZbQ==:rDWFcArDIHrumj7MHH+grCQv1jxac+zDx7fg6Fbo/yc=",
+    "totalScore": 12,
+    "puzzlesPlayed": 1,
+    "puzzlesWon": 0,
+    "puzzlesLost": 0,
+    "currentStreak": 0,
+    "maxStreak": 0,
+    "perfectPuzzles": 0,
+    "mistakeHistogram": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  },
+  {
+    "playerId": 2,
+    "username": "pippa",
+    "passwordHash": "mbLqvWqHbH6WMgFGwMNzPg==:72QVvgLEMwZArxv5uXzAzoiyun8dtxpg8TfHg50ixUQ=",
+    "totalScore": 24,
+    "puzzlesPlayed": 2,
+    "puzzlesWon": 1,
+    "puzzlesLost": 0,
+    "currentStreak": 1,
+    "maxStreak": 1,
+    "perfectPuzzles": 1,
+    "mistakeHistogram": [
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1
+    ]
+  }
+]

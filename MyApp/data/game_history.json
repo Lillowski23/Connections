@@ -1,0 +1,38 @@
+[
+  {
+    "playerId": 2,
+    "gameId": 40,
+    "correctGroups": 1,
+    "mistakes": 0,
+    "score": 6,
+    "won": false,
+    "lostByMistakes": false,
+    "expired": true,
+    "joinedAt": 1779436654752,
+    "finishedAt": 1779436677309
+  },
+  {
+    "playerId": 1,
+    "gameId": 40,
+    "correctGroups": 2,
+    "mistakes": 0,
+    "score": 12,
+    "won": false,
+    "lostByMistakes": false,
+    "expired": true,
+    "joinedAt": 1779436644672,
+    "finishedAt": 1779436677297
+  },
+  {
+    "playerId": 2,
+    "gameId": 41,
+    "correctGroups": 3,
+    "mistakes": 0,
+    "score": 18,
+    "won": true,
+    "lostByMistakes": false,
+    "expired": false,
+    "joinedAt": 1779436702852,
+    "finishedAt": 1779436735808
+  }
+]
